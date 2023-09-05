@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .navbar-brand {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #555;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #000;
+  }
+  
+  .buttons .btn {
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 20px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+  
+  .buttons .btn:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .buttons .btn i {
+    margin-right: 8px;
+  }
+  
+  
