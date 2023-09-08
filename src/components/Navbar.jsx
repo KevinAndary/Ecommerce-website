@@ -9,14 +9,19 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 sticky-top">
             <div className="container">
-                <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/" style={{ textDecoration: 'none', color: '#007bff', backgroundColor: '#CCCCCC', padding: '8px 12px', borderRadius: '4px' }}>
+                <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/" style={{ textDecoration: 'none', background: 'linear-gradient(to right, #FF5733, #FFC300, #4CAF50, #2196F3, #9C27B0, #FF5733)', WebkitBackgroundClip: 'text', color: 'transparent', padding: '8px 12px', borderRadius: '4px' }}>
                     <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>T</span>
-                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#007bff' }}>rendy</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>r</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>e</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>n</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>d</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>y</span>
                     <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>T</span>
                 </NavLink>
                 <button className="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
+
 
 
 
