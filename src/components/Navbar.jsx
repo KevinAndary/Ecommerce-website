@@ -9,9 +9,9 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 sticky-top">
             <div className="container">
-                <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/" style={{ textDecoration: 'none', color: '#007bff', backgroundColor: '#000', padding: '8px 12px', borderRadius: '4px' }}>
+                <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/" style={{ textDecoration: 'none', color: '#007bff', backgroundColor: '#CCCCCC', padding: '8px 12px', borderRadius: '4px' }}>
                     <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>T</span>
-                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#CCCCCC' }}>rendy</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#007bff' }}>rendy</span>
                     <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#fff' }}>T</span>
                 </NavLink>
                 <button className="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
