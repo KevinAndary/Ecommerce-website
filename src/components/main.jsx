@@ -16,7 +16,7 @@ const Home = () => {
             <div className="container">
               <h5 className="card-title fs-1 text fw-lighter text-black">New Season Arrivals</h5>
               <p className="card-text fs-5 d-none d-sm-block text-black">
-                Discover Your Signature Style with TrendyT - Where Trends Come to Life
+                  Discover Your Signature Style with <span class="website-name">TrendyT</span> - Where Trends Come to Life
               </p>
 
             </div>
