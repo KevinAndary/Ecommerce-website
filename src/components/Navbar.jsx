@@ -10,7 +10,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 sticky-top">
             <div className="container">
                 <NavLink className="navbar-brand fw-bold fs-4 px-2" to="/" style={{ textDecoration: 'none', color: '#333' }}>
-                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#ff5733' }}>Trendy</span>
+                    <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#0084CC' }}>Trendy</span>
                     <span style={{ fontFamily: 'Your-Font-Here', fontSize: '2rem', color: '#000' }}>T</span>
                 </NavLink>
                 <button className="navbar-toggler mx-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
