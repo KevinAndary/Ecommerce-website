@@ -1,5 +1,5 @@
 import React from "react";
-import './main.css';
+// import './main.css';
 
 const Home = () => {
   return (
@@ -16,8 +16,17 @@ const Home = () => {
             <div className="container">
               <h5 className="card-title fs-1 text fw-lighter text-black">New Season Arrivals</h5>
               <p className="card-text fs-5 d-none d-sm-block text-black">
-                  Discover Your Signature Style with <span class="website-name">TrendyT</span> - Where Trends Come to Life
-              </p>
+                Discover Your Signature Style with
+                <span
+                    style={{
+                        fontSize: 'larger',
+                        fontWeight: 'bold',
+                        fontFamily: "'Your-Font-Here', sans-serif",
+                    }}
+                >
+                    TrendyT
+                </span> - Where Trends Come to Life
+            </p>
 
             </div>
           </div>
