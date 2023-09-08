@@ -21,7 +21,7 @@ const Home = () => {
                     style={{
                         fontSize: 'larger',
                         fontWeight: 'bold',
-                        fontFamily: "'Your-Font-Here', sans-serif",
+                        fontFamily: "'Lato', sans-serif",
                     }}
                 >
                     TrendyT
