@@ -1,4 +1,9 @@
 .text-black {
     color: black;
   }
-  
+
+.website-name {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Your-Font-Here', sans-serif;
+}
