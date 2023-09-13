@@ -8,19 +8,7 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+          At TrendyT, we're not just selling clothes; we're sharing a passion for fashion. Our journey began with a simple idea: to provide fashion-forward individuals with an unbeatable selection of trendy and stylish clothing. We believe that your outfit is a canvas of self-expression, and we're here to help you paint it with the latest trends and timeless classics. Our dedicated team of fashion enthusiasts scours the globe to curate a collection that combines quality, affordability, and the latest runway-inspired looks. Whether you're seeking the perfect everyday attire or a statement piece for a special occasion, TrendyT has you covered. Join us on this fashion-forward adventure, and let's make your style stand out from the crowd. Welcome to TrendyT, where every outfit tells a story.
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
