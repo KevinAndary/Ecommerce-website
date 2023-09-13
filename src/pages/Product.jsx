@@ -5,7 +5,7 @@ import Marquee from "react-fast-marquee";
 import { useDispatch } from "react-redux";
 import { addCart } from "../redux/action";
 
-import { Footer, Navbar } from "../components";
+import { Navbar } from "../components";
 
 const Product = () => {
   // Extract the 'id' parameter from the URL using the 'useParams' hook
